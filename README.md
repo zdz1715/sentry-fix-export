@@ -1,5 +1,5 @@
 # sentry-fix-export
-更改sentry导出文件字段类型，使其能带入成功
+更改sentry导出文件字段类型，使其能导入成功
 
 ## 发生场景
 > [sentry自托管项目](https://github.com/getsentry/self-hosted)22.7.0 -> 22.10.0

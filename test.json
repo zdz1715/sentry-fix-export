@@ -1,0 +1,28 @@
+[
+  {
+    "model": "sites.site",
+    "pk": 1,
+    "fields": {
+      "domain": "example.com",
+      "name": "example.com"
+    }
+  },
+  {
+    "model": "sentry.option",
+    "pk": 1,
+    "fields": {
+      "key": "sentry:last_worker_ping",
+      "value": 1667993284.535946,
+      "last_updated": "2022-11-09T11:28:04.535Z"
+    }
+  },
+  {
+    "model": "sentry.option",
+    "pk": 10,
+    "fields": {
+      "key": "mail.use-tls",
+      "value": false,
+      "last_updated": "2022-08-11T02:19:49.063Z"
+    }
+  }
+]
